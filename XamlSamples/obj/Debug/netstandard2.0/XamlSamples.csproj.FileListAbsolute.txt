@@ -1,0 +1,16 @@
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\bin\Debug\netstandard2.0\XamlSamples.deps.json
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\bin\Debug\netstandard2.0\XamlSamples.dll
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\bin\Debug\netstandard2.0\XamlSamples.pdb
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\XamlSamples.csproj.AssemblyReference.cache
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\XamlSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\XamlSamples.AssemblyInfoInputs.cache
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\XamlSamples.AssemblyInfo.cs
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\XamlSamples.csproj.CoreCompileInputs.cache
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\XamlSamples.dll
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\refint\XamlSamples.dll
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\XamlSamples.pdb
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\ref\XamlSamples.dll
+C:\Users\Van\source\repos\XamlSamples\XamlSamples\obj\Debug\netstandard2.0\HelloXamlPage.xaml.g.cs
